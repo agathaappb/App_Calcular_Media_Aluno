@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Média_de_aluno</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="n1">Nota 1</string>
+    <string name="n2">Nota 2</string>
+    <string name="falta">Faltas</string>
+</resources>
